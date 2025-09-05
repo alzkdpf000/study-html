@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+/Users/jeongchunghyo/Desktop/gb_0900_jch/html/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1047152452.index
-3213896510.index
-4057346914.index
-2914920885.index
-4202394731.index
-1633906447.index
-2971818913.index
